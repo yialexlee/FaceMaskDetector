@@ -8,6 +8,7 @@ A Face Mask Detector develop with PyTorch and  OpenCV
 $ pip install opencv-python
 ```
 * [PyQt5](https://pytorch.org/)
+
 Linux
 ```
 $ pip install torch torchvision torchaudio
