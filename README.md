@@ -1,6 +1,9 @@
 # FaceMaskDetector
 A Face Mask Detector develop with PyTorch and  OpenCV
 
+
+![image](https://github.com/yialexlee/yialexlee.github.io/blob/master/images/work/work8.png)
+
 ## Requirement
 * [Python](https://www.python.org/downloads/release/python-390/)
 * [OpenCv](https://pypi.org/project/opencv-python/)
